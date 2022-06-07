@@ -1,0 +1,34 @@
+.App {
+  background-color: #021617;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  border-radius: 10px;
+  width: 30%;
+  margin: auto;
+  background-color: white;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 70%;
+  margin: auto;
+}
+li{
+  list-style: none;
+  width: 90%;
+  align-items: center;
+  margin: auto;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0px 10px;
+}
+
+.head{
+  border-radius: 5px;
+  background-color: green;
+  align-items: center;
+}
